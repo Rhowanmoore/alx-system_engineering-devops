@@ -1,1 +1,1 @@
-ls -Art | tail -n 10 | sort -nr
+ls -lt | head -10 | sort -nr
